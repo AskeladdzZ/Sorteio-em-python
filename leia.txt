@@ -1,0 +1,8 @@
+Estou apenas mostrando básico do código para lhes dar um exemplo
+
+1 - Crie um arquivo .py
+2 - use o import random no seu código caso n tenha baixe a package
+3 - use as váriaveis de sua preferência para escolher os números, pessoas, etc
+4 - crie uma váriavel para listar todas a váriaveis que usou para escolher o que quer sortear
+5 - crie outra váriavel agora para fazer a parte do sorteio usando o ´´´ random.choice(// coloque o nome da váriavel que usou para listar //) ´´´
+6 - por último use o print('o sorteado foi {}'.format(// váriavel do sorteio //))
